@@ -8,6 +8,7 @@
 
 ;; Add Marmalade package archive for Emacs starter kit and other Emacs packages
 
+;; Add custom meta and control key bindings for Mac
 (setq mac-option-modifier nil)
 (setq mac-function-modifier 'meta)
 
